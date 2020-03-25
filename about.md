@@ -6,6 +6,8 @@ permalink: /about/
 
 ![Deryk Makgill](https://derykmakgill.com/josh/assets/deryk-finland.jpg)
 
+## Short bio
+
 I invest in and build Bitcoin businesses and projects at [19d6](https://19d6.ch).
 
 I write [here](/archive) on this site about anything that interests me. This includes [book notes](/notes) and product reviews, essays, tutorials, interviews, and personal updates.
